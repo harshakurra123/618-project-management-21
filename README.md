@@ -7,7 +7,7 @@ Project managers - project plans
 Project repos
 
 - [pm-s04-g01-project]()
-- pm-s04-g02-project
+- [pm-s04-g02-project](https://github.com/harshakurra123/pm-s04-g02-project)
 - pm-s04-g03-project
 - [pm-s04-g04-project](https://github.com/pramod096/pm-s04-g04-project)
 - pm-s04-g05-project
